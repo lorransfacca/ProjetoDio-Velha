@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+    background: red;
+}
+
+h1 , label
+{
+    color: yellow;
+    font-size: 21px;
+}
+
+.quadrado {
+    border-radius: 10px;
+    text-align: center;
+    width: 50px;
+    background: orangered;
+    display: inline-block;
+    padding: 40px;
+    font-size: 60px;
+    margin: 5px;
+    cursor: pointer;
+    color: orangered;
+}
+
+.jogador, .vencedor {
+    font-size: 21px;
+    margin-top: 10px;
+}
+
+button {
+    margin-top: 10px;
+    width: 100px;
+    height: 30px;
+    border-radius:20px;
+    border-color: orange;
+    background: orangered;
+    color: yellow;
+    cursor: pointer;
+}
